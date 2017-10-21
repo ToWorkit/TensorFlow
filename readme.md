@@ -1,3 +1,8 @@
+# 个人习惯
+> 代码中的注释:
+> -> 表示含义
+> => 表示返回值
+
 # pip 升级权限报错
 > python -m pip install --user --upgrade pip
 
