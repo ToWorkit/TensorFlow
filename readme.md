@@ -25,6 +25,12 @@ list structure）要高效的多。它包括：
 > 
 > 实用的线性代数、傅里叶变换和随机数生成函数
 
+# Pandas
+> 在Numpy基础上提供了更多的数据读写工具
+
+# Scipy
+> 在Numpy基础上添加了众多科学计算工具包
+
 # jupyter
 
 # scikit-image
