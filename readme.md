@@ -31,6 +31,9 @@ list structure）要高效的多。它包括：
 # Scipy
 > 在Numpy基础上添加了众多科学计算工具包
 
+# scikit-learn
+> 简称sklearn, 建立在Numpy和matplotlib库的基础上
+
 # jupyter
 
 # scikit-image
