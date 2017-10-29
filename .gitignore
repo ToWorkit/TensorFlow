@@ -3,3 +3,9 @@ Base/MNIST_data
 .ipynb_checkpoints
 ~/.ipynb_checkpoints
 Network/.ipynb_checkpoints
+Network/MNIST_data/
+Network/projector/
+Network/logs/
+
+
+
