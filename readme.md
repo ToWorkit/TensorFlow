@@ -6,6 +6,8 @@
 > => 表示返回值
 > 
 > () 表示前面名词的解释
+>
+> !  表示反之
 
 # pip 升级权限报错
 > python -m pip install --user --upgrade pip
